@@ -1,0 +1,5 @@
+code                                    app/code/community/Develo/Googletrustedstores/
+Develo_Googletrustedstores.xml          app/etc/modules/Develo_Googletrustedstores.xml
+en_US/*                                 app/locale/en_US/
+frontend/layout/*                       app/design/frontend/base/default/layout/
+frontend/template                       app/design/frontend/base/default/template/develo-googletrustedstores
